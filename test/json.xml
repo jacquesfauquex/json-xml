@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <null key="a"/>
+    <true key="b"/>
+    <false key="c"/>
+    <number key="d">1</number>
+    <string key="d">"hola"</string>
+    <array key="e"></array>
+</map>

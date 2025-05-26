@@ -6,10 +6,14 @@
     2.1,
     null,
     true,
-    false
+    false,
+    []
   ],
   "key3": {
     "key31": 31,
-    "key32": "value32"
+    "key32": null,
+    "key33": true,
+    "key34": false,
+    "key35": "\"value35\""
   }
 }
